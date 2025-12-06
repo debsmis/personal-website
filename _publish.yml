@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: a58e69e9-8d99-463d-b991-b7543e41670a
-      url: https://debsmis.netlify.app/
+      url: 'https://debsmis.netlify.app/''
