@@ -2,8 +2,32 @@
 title: "About"
 ---
 
-About this site
+::: columns
+::: {.column width="35%"}
+<img src="pfp.jpeg" style="width:100%; margin-right: 25px; margin-top: 10px;"/>
+:::
 
-```{r}
-1 + 2
-```
+::: {.column width="65%" style="padding-left: 20px;"}
+# Hi, I'm Debanshi!
+
+I'm a Statistics & Data Science student at UCLA passionate about AI/ML, fairness, and optimization. I'm also a research assistant at the [Artificial Intelligence Innovation Lab](https://epistasis.org/) at Cedars-Sinai Medical Center.
+
+📄 [**Find my CV Here**](DM_CV.pdf)  
+🌐 [LinkedIn](https://www.linkedin.com/in/debanshi-misra/)  
+💻 [GitHub](https://github.com/debsmis)
+:::
+:::
+
+## What I'm Working On
+
+I enjoy applying statistical thinking and machine learning to real-world problems. My recent work focuses on:
+
+-   Using data and algorithms responsibly, with attention to fairness and bias\
+-   Exploring optimization ideas that balance performance and efficiency\
+-   Building tools and workflows that make complex models more interpretable and usable
+
+## For Fun
+
+In my free time, I like updating my Beli account with new restaurants, working out, and watching new Netflix shows.
+
+

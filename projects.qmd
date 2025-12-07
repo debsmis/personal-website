@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+# Publications
+
+Saini, A. K., Hernandez, J. G., Wong, E. F., **Misra, D.**, and Moore, J. H. *Evolved Sample Weights for Bias Mitigation: Effectiveness Depends on Optimization Objectives*
+
+📄 **Preprint:** [arXiv:2511.20909](https://arxiv.org/abs/2511.20909)
+
+-   A multi-objective optimization approach that balances predictive accuracy with fairness metrics across diverse datasets, using sample-weight evolution and computationally efficient optimization techniques.
+-   In submission to the ACM Journal of Responsible Computing [(JRC)](https://dl.acm.org/journal/jrc).

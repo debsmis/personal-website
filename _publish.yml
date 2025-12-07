@@ -1,4 +1,6 @@
 - source: project
   netlify:
     - id: a58e69e9-8d99-463d-b991-b7543e41670a
-      url: 'https://debsmis.netlify.app/'
+      url: https://debsmis.netlify.app
+    - id: 9ce45c08-da1b-4585-aa8c-8090c98027bf
+      url: https://flourishing-scone-27cb64.netlify.app

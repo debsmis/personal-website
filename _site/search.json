@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Publications\nSaini, A. K., Hernandez, J. G., Wong, E. F., Misra, D., and Moore, J. H. Evolved Sample Weights for Bias Mitigation: Effectiveness Depends on Optimization Objectives\n📄 Preprint: arXiv:2511.20909\n\nA multi-objective optimization approach that balances predictive accuracy with fairness metrics across diverse datasets, using sample-weight evolution and computationally efficient optimization techniques.\nIn submission to the ACM Journal of Responsible Computing (JRC)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a Statistics & Data Science student at UCLA passionate about AI/ML, fairness, and optimization. I’m also a research assistant at the Artificial Intelligence Innovation Lab at Cedars-Sinai Medical Center.\n📄 Find my CV Here\n🌐 LinkedIn\n💻 GitHub"
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About",
+    "section": "What I’m Working On",
+    "text": "What I’m Working On\nI enjoy applying statistical thinking and machine learning to real-world problems. My recent work focuses on:\n\nUsing data and algorithms responsibly, with attention to fairness and bias\n\nExploring optimization ideas that balance performance and efficiency\n\nBuilding tools and workflows that make complex models more interpretable and usable"
+  },
+  {
+    "objectID": "about.html#for-fun",
+    "href": "about.html#for-fun",
+    "title": "About",
+    "section": "For Fun",
+    "text": "For Fun\nIn my free time, I like updating my Beli account with new restaurants, working out, and watching new Netflix shows."
   }
 ]
